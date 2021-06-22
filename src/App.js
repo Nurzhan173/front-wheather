@@ -13,10 +13,11 @@ class App extends Component {
             className="App-title"
             style={{ float: "left", marginTop: "20px" }}
           >
-            
+
           </h1>
         </header>
-        <Home />
+        {/* <Home /> */}
+        <h1>HELLO WORLD</h1>
         <footer
           style={{
             height: "60px",
